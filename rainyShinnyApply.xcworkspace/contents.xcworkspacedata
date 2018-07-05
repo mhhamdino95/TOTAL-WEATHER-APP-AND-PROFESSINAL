@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:rainyShinnyApply.xcodeproj">
+      location = "group:/Volumes/DATA/PROJECTS/iOS 10 and Swift 3 From Beginner to Paid Professional/rainyShinnyApply/TotalWeatherAppAndForcast.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

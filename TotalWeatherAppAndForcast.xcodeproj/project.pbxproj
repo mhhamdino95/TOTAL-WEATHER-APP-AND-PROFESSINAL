@@ -26,7 +26,7 @@
 		A104F89D20EBCD42000D84AF /* Forcast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Forcast.swift; sourceTree = "<group>"; };
 		A138E2B920EBDC5F00D1A238 /* myCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myCell.swift; sourceTree = "<group>"; };
 		A138E2BB20EBF03A00D1A238 /* Location.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
-		A1874A0F20EB76F80093C70F /* rainyShinnyApply.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rainyShinnyApply.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1874A0F20EB76F80093C70F /* TotalWeatherAppAndForcast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TotalWeatherAppAndForcast.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1874A1220EB76F80093C70F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A1874A1420EB76F80093C70F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A1874A1720EB76F80093C70F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -65,7 +65,7 @@
 		A1874A1020EB76F80093C70F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A1874A0F20EB76F80093C70F /* rainyShinnyApply.app */,
+				A1874A0F20EB76F80093C70F /* TotalWeatherAppAndForcast.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -141,9 +141,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A1874A0E20EB76F80093C70F /* rainyShinnyApply */ = {
+		A1874A0E20EB76F80093C70F /* TotalWeatherAppAndForcast */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A1874A2120EB76FA0093C70F /* Build configuration list for PBXNativeTarget "rainyShinnyApply" */;
+			buildConfigurationList = A1874A2120EB76FA0093C70F /* Build configuration list for PBXNativeTarget "TotalWeatherAppAndForcast" */;
 			buildPhases = (
 				5E29ACEC504088C8C064FA98 /* [CP] Check Pods Manifest.lock */,
 				A1874A0B20EB76F80093C70F /* Sources */,
@@ -155,9 +155,9 @@
 			);
 			dependencies = (
 			);
-			name = rainyShinnyApply;
+			name = TotalWeatherAppAndForcast;
 			productName = rainyShinnyApply;
-			productReference = A1874A0F20EB76F80093C70F /* rainyShinnyApply.app */;
+			productReference = A1874A0F20EB76F80093C70F /* TotalWeatherAppAndForcast.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -175,7 +175,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A1874A0A20EB76F80093C70F /* Build configuration list for PBXProject "rainyShinnyApply" */;
+			buildConfigurationList = A1874A0A20EB76F80093C70F /* Build configuration list for PBXProject "TotalWeatherAppAndForcast" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -188,7 +188,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A1874A0E20EB76F80093C70F /* rainyShinnyApply */,
+				A1874A0E20EB76F80093C70F /* TotalWeatherAppAndForcast */,
 			);
 		};
 /* End PBXProject section */
@@ -411,7 +411,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = mhamdino95.rainyShinnyApply;
+				PRODUCT_BUNDLE_IDENTIFIER = "mhamdino95.TOTAL-WEATHER-APP-AND-PROFESSINAL";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -430,7 +430,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = mhamdino95.rainyShinnyApply;
+				PRODUCT_BUNDLE_IDENTIFIER = "mhamdino95.TOTAL-WEATHER-APP-AND-PROFESSINAL";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -440,7 +440,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A1874A0A20EB76F80093C70F /* Build configuration list for PBXProject "rainyShinnyApply" */ = {
+		A1874A0A20EB76F80093C70F /* Build configuration list for PBXProject "TotalWeatherAppAndForcast" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A1874A1F20EB76FA0093C70F /* Debug */,
@@ -449,7 +449,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A1874A2120EB76FA0093C70F /* Build configuration list for PBXNativeTarget "rainyShinnyApply" */ = {
+		A1874A2120EB76FA0093C70F /* Build configuration list for PBXNativeTarget "TotalWeatherAppAndForcast" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A1874A2220EB76FA0093C70F /* Debug */,
