@@ -1,0 +1,6 @@
+framework module Pods_rainyShinnyApply {
+  umbrella header "Pods-rainyShinnyApply-umbrella.h"
+
+  export *
+  module * { export * }
+}
